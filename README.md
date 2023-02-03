@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeynep Bal Akar</h1>
-<h3 align="center">I'm an 11th grade student at Capa Science High School.</h3>
+<h3 align="center">I'm an 11th grade student at Capa Science High School. I am graduated from YetGen 21'2 and YGA 22'. I am currently student at YetGen Core Python Program. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balakar15&label=Profile%20views&color=0e75b6&style=flat" alt="balakar15" /> </p>
 
