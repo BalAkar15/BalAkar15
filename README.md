@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##Try
+TRY
 
 <!--
 **BalAkar15/BalAkar15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
