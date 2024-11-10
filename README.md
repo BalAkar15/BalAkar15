@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balakar15&label=Profile%20views&color=0e75b6&style=flat" alt="balakar15" /> </p>
 
-- 🔭 I’m currently working on **FoodBridge and Kurdele Project**
-
-- 🌱 I’m currently learning **Python**
-
-- 🤝 I’m looking for help with **FoodBridge Project**
-
-- 📝 I regularly write articles on [https://medium.com/@akar-zeynepbal](https://medium.com/@akar-zeynepbal)
+- 🌱 I’m currently learning **Unity**
 
 - 📫 How to reach me **akar.zeynepbal@gmail.com**
 
